@@ -44,10 +44,12 @@ I am an **AI Engineer & System Architect** based in Cairo, Egypt. My core engine
 
 ### 🌟 Featured Systems & Repositories
 
-#### 1. [Wathba Education Platform](https://github.com/floskam300-eng/Wathba-Education-Platform)
-> **Production Multi-Tenant SaaS LMS serving 2,500+ active students across Egypt.**
+#### 1. Wathba Education Platform `🔒 Proprietary Production SaaS`
+> **Production Multi-Tenant LMS serving 2,500+ active students & 7,365+ completed exams across Egypt.**
 - **Stack:** Node.js 20, Express 4, React 18, Vite, PostgreSQL 16, Tailwind CSS.
 - **Key Engineering:** Subdomain tenant isolation, self-hosted LiveKit WebRTC streaming, anti-cheat exam engine with SSE heartbeat, Baileys WhatsApp automated notifications, and multi-channel payment reconciliation (InstaPay, Vodafone Cash, Fawry).
+> 🛡️ **Commercial & IP Notice:** The production source code is protected under commercial licensing for active educational centers. **Hiring managers and engineering teams** requesting code evaluation or a live architectural walkthrough may contact me directly for private repository access:  
+> 📩 [floskam300@gmail.com](mailto:floskam300@gmail.com) • 💬 WhatsApp: `+20 155 759 1397`
 
 #### 2. [Hankalis Clan Server](https://github.com/floskam300-eng/Hankalis-Clan-Server) & [Client](https://github.com/floskam300-eng/Hankalis-Clan)
 > **Real-time gaming community platform & high-concurrency WebSocket engine.**
